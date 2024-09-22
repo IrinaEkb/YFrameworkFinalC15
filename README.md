@@ -1,12 +1,13 @@
 # YFrameworkFinalC15
 #### This is a hybrid test automation framework designed for UI, API, and Database testing. It incorporates Data Driven, Keyword Driven, and Behavior Driven Development approaches.
 
-![Alt text](src/test/resources/testData/tools.png)
+![Alt text](src/test/resources/testData/tools.png)  
 
 ## Overview
 The framework aims to be versatile and adaptable for various testing needs. 
 It's designed to be scalable and reliable, implementing various design patterns such as 
 Page Object Model (POM), 
+
 PageFactory, 
 and Singleton. 
 The framework includes a library of reusable utility classes and methods, facilitating the BDD approach with Cucumber. 
